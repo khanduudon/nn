@@ -26,7 +26,7 @@ if not owner_str:
 OWNER = int(owner_str)
 
 # Bot credit/name
-CREDIT = environ.get("CREDIT", "HARRY BOTS")
+CREDIT = environ.get("CREDIT", "𓍯𝙎𝙪𝙟𝙖𝙡⚝")
 
 # YouTube cookies file path
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
